@@ -7,7 +7,7 @@ Moreover, this project seeks to uncover valuable insights and trends in the stre
 
 **Project Overview**
 The project was carried out in the following step-by-step process:
-
+ 
 * **Handling Null Values:** Null values in the dataset were addressed to ensure data integrity and accuracy.
 
 * **Managing Nested Columns:** Columns containing nested data, such as director, cast, listed_in, and country, were processed to enable better visualization and analysis.
